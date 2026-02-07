@@ -1,0 +1,6 @@
+flask
+ibm-watsonx-ai
+langchain
+langchain-core
+pydantic
+python-dotenv
