@@ -1,29 +1,42 @@
 🏗 Architecture
 
 User Input (YouTube URL)
-        ↓
-Transcript Extraction (youtube-transcript-api)
-        ↓
-Transcript Processing
-        ↓
-Text Chunking (RecursiveCharacterTextSplitter)
-        ↓
-Watsonx Embeddings
-        ↓
-FAISS Vector Store
-        ↓
-Retriever (Similarity Search)
-        ↓
-Watsonx Granite LLM
-        ↓
-Summary or Answer
-        ↓
-Gradio UI
-        ↓
-Summary or Answer
-        ↓
-Gradio UI
 
+↓
+        
+Transcript Extraction (youtube-transcript-api)
+
+↓
+        
+Transcript Processing
+
+↓
+        
+Text Chunking (RecursiveCharacterTextSplitter)
+
+↓
+        
+Watsonx Embeddings
+
+↓
+        
+FAISS Vector Store
+
+↓
+        
+Retriever (Similarity Search)
+
+↓
+        
+Watsonx Granite LLM
+
+↓
+        
+Summary or Answer
+
+↓
+        
+Gradio UI
 
 🔬 RAG Pipeline Design
 
