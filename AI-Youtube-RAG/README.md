@@ -1,30 +1,39 @@
 🏗 Architecture
 User Input (YouTube URL)
-        ↓
+
+↓
         
 Transcript Extraction (youtube-transcript-api)
-        ↓
+
+↓
         
 Transcript Processing
-        ↓
+
+↓
         
 Text Chunking (RecursiveCharacterTextSplitter)
-        ↓
+
+↓
         
 Watsonx Embeddings
-        ↓
+
+↓
         
 FAISS Vector Store
-        ↓
+
+↓
         
 Retriever (Similarity Search)
-        ↓
+
+↓
         
 Watsonx Granite LLM
-        ↓
+
+↓
         
 Summary or Answer
-        ↓
+
+↓
         
 Gradio UI
 
