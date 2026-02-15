@@ -21,7 +21,7 @@ Initialize and activate a new Python virtual environment:
 Step 3: Install the library and packages
 Install ibm-watsonx-ai to configure and utilize the vision-instruct model, along with other necessary packages:
 
-###🛠️ Running the Application
+### 🛠️ Running the Application
 Ensure your virtual environment is active:
 
 Start the Flask server:
