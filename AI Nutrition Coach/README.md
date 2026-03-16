@@ -38,30 +38,30 @@ Other nutrients
 #### Recipe Suggestion Pipeline
 
 Food Image
-   ↓
+   ➡️
 Ingredient Detection Agent
-   ↓
+   ➡️
 Ingredient Filtering
-   ↓
+   ➡️
 Dietary Restriction Filtering
-   ↓
+   ➡️
 Recipe Suggestion Agent
-   ↓
+   ➡️
 Recipe Output
 
 
 #### Nutrient Analysis Pipeline
 
 Food Image
-   ↓
+   ➡️
 Nutrient Analysis Agent
-   ↓
+   ➡️
 Nutrition Report
 
 ## 🛠 Tech Stack
 
-Python
-CrewAI (Multi-Agent Framework)
-IBM Watsonx AI
-YAML Configuration
+Python, 
+CrewAI (Multi-Agent Framework), 
+IBM Watsonx AI, 
+YAML Configuration, 
 Pydantic (Structured Outputs)
